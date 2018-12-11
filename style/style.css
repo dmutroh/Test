@@ -1,0 +1,72 @@
+body{
+    margin-left: 300px;
+    margin-right: 300px;
+    background:linear-gradient(
+          rgba(48, 44, 52, 0.3), 
+          rgba(48, 44, 52, 0.3)
+        ), url("0017330_paleri-status-9014-32.jpeg");
+        color: black;
+    font-family: sans-serif;
+    font-kerning: auto;
+
+    font-size: 45px;
+    
+    
+}
+.header {
+  margin: 8px;
+    margin-bottom: 0px;
+  padding: 60px;
+  text-align: center;
+  background-image: url(https://memepedia.ru/wp-content/uploads/2017/09/m2qTH91bV_g.jpg);
+  background-size:cover;
+  color: black;
+  font-size: 30px;
+    border: 1px solid sandybrown;
+}
+.sidebar{
+    padding: 0;
+    font-size: 35px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid sandybrown;
+  vertical-align: baseline;
+     
+   
+
+}
+.main{
+     
+    margin: 8px;
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+    border: 1px solid sandybrown;
+    background:
+        linear-gradient(
+          rgba(48, 44, 52, 0.5), 
+          rgba(48, 44, 52, 0.5)
+        ),url(kover.png);
+    background-size: 100%;
+    -webkit-text-stroke: 0.25px magenta;
+    color: white;
+    
+}
+li{
+ 
+    text-decoration: none;
+    display: inline;
+   
+}
+a{
+    padding: 5px;
+    text-decoration: none;
+    color: sandybrown;
+    background-color: white;
+    background:
+        linear-gradient(
+          rgba(48, 44, 52, 0.5), 
+          rgba(48, 44, 52, 0.5));
+}
